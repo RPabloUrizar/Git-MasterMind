@@ -1,7 +1,7 @@
 body {
     background-color: #1d2127;
     color: #fff;
-    font font-family: Overpass Mono, monospace;
+    font-family: Overpass Mono, monospace;
     padding: 0;
     margin: 0;
 
@@ -26,4 +26,22 @@ h1 {
     height: 50px;
 }
 
+.container {
+    margin-top: 60px;
+    padding: 0 60px 0 60px;
+}
+
+.post {
+    background-color: #296aec;
+    margin-bottom: 15px;
+    padding: 5px 20px 5px 20px;
+    border-radius: 12px;
+}
+
+.post h4 {
+    color: #32660d;
+}
+
+.post span {
+    color: #010d16;
 }
